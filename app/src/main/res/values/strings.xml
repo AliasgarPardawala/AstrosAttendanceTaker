@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Team Astros</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_scanqr">Scan QR</string>
+    <string name="menu_makeqr">Make QR</string>
+    <string name="menu_lights">Lights</string>
+    <string name="menu_logout">Log Out</string>
+    <string name="attendance">Attendance Not Marked for today</string>
+</resources>
